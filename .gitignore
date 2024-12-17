@@ -1,3 +1,5 @@
-/project/.godot/
-/project/addons/
+/project/client/.godot/
+/project/client/addons/
+/project/server/.godot/
+/project/server/addons/
 /.idea/
